@@ -1,10 +1,11 @@
 /** @jsx jsx */
-import { jsx } from "theme-ui";
+import { Button, jsx } from "theme-ui";
 import { useState } from "react";
 import { useColorMode } from "theme-ui";
 import Switch from "react-switch";
 import { GiMoon } from "react-icons/gi";
 import { RiSunFill } from "react-icons/ri";
+import { GrPowerReset } from "react-icons/gr";
 import "./App.css";
 
 function App() {
@@ -54,6 +55,20 @@ function App() {
           -
         </button>
       </div>
+      <button
+        onClick={() => setCounter(0)}
+        className="reset"
+        sx={{
+          paddingTop: 1,
+          outline: "none",
+          height: 55,
+          width: 55,
+          backgroundColor: "button",
+          borderRadius: 50,
+        }}
+      >
+        <GrPowerReset size={30} />
+      </button>
     </div>
   );
 }

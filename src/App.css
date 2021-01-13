@@ -35,6 +35,12 @@
   outline: none;
 }
 
+.reset {
+  position: absolute;
+  top: 280px;
+  left: 920px;
+}
+
 .title {
   font-size: 200px;
   font-weight: bolder;
