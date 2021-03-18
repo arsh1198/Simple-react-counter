@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Simple-react-counter/static/css/main.562017b3.chunk.css",
+    "main.js": "/Simple-react-counter/static/js/main.0a13a4d9.chunk.js",
+    "main.js.map": "/Simple-react-counter/static/js/main.0a13a4d9.chunk.js.map",
+    "runtime-main.js": "/Simple-react-counter/static/js/runtime-main.3a47503f.js",
+    "runtime-main.js.map": "/Simple-react-counter/static/js/runtime-main.3a47503f.js.map",
+    "static/js/2.be1f3b5b.chunk.js": "/Simple-react-counter/static/js/2.be1f3b5b.chunk.js",
+    "static/js/2.be1f3b5b.chunk.js.map": "/Simple-react-counter/static/js/2.be1f3b5b.chunk.js.map",
+    "static/js/3.6708e199.chunk.js": "/Simple-react-counter/static/js/3.6708e199.chunk.js",
+    "static/js/3.6708e199.chunk.js.map": "/Simple-react-counter/static/js/3.6708e199.chunk.js.map",
+    "index.html": "/Simple-react-counter/index.html",
+    "static/css/main.562017b3.chunk.css.map": "/Simple-react-counter/static/css/main.562017b3.chunk.css.map",
+    "static/js/2.be1f3b5b.chunk.js.LICENSE.txt": "/Simple-react-counter/static/js/2.be1f3b5b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a47503f.js",
+    "static/js/2.be1f3b5b.chunk.js",
+    "static/css/main.562017b3.chunk.css",
+    "static/js/main.0a13a4d9.chunk.js"
+  ]
+}
